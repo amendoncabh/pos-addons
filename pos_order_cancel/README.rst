@@ -1,6 +1,6 @@
-======================================
- Saving removed products of POS order
-======================================
+=========================
+ POS: reason for removal
+=========================
 
 The module allows to add a reason on canceling order or orderline in POS.
 
@@ -19,7 +19,7 @@ Contributors
 
 Sponsors
 --------
-* `IT-Projects LLC <https://it-projects.info>`__
+* `Sinomate <http://sinomate.net/>`__
 
 Maintainers
 -----------
